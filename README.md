@@ -14,3 +14,9 @@ templates to help practice Rust
 # Machine learning focused templates
 
 [Iris model](https://github.com/y0sif/iris-model)
+
+# Complete project template
+
+[Image Encryption & Compression template](https://github.com/y0sif/Image-enc-comp-rust)
+
+
